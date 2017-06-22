@@ -50,4 +50,6 @@ See the pdf for further explanation, examples, and test cases.
 
 > \> ((-12 5) (240 3 1) (-8 3 1 2) (160 1 2 2) (-9 4 1) (180 2 2) (-6 2 2 2) (120 0 3 2))
 
+___
 
+Graded as a strong first.
